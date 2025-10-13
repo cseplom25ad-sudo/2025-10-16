@@ -7,7 +7,7 @@ p {
 }
 
 .container{
-    width:600px;
+    width:500px;
     background-color: rgb(175, 175, 175);
     margin:auto;
     padding: 2%;
@@ -15,3 +15,6 @@ p {
     border-radius: 10px;  
 }
 
+img{
+    max-width: 67%;
+}
